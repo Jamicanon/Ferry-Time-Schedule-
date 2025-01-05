@@ -8,7 +8,6 @@ import java.util.*;
  * Jamison Canonizado
  * 7/10/2024
  * CSE 122
- * TA: Marcus Sanchez, Chloe Mi Cartier
  * Culminating Project 1: File Processing and User Input
  * Finding the fast ferry times for Seattle to Bremerton
  * Ferry Times extracted from 
